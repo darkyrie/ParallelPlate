@@ -1,0 +1,11 @@
+﻿  Mask.cpp
+Mask.cpp(71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Mask.cpp(72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  ParallelPlate.cpp
+  Plate.cpp
+  stdafx.cpp
+  Generating code
+  All 1803 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ParallelPlate.vcxproj -> C:\Users\Kyle\Documents\Visual Studio 2015\Projects\ParallelPlate\Release\ParallelPlate.exe
+  ParallelPlate.vcxproj -> C:\Users\Kyle\Documents\Visual Studio 2015\Projects\ParallelPlate\Release\ParallelPlate.pdb (Full PDB)

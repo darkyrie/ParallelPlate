@@ -1,0 +1,10 @@
+﻿  ParallelPlate.cpp
+  Generating Code...
+  Compiling...
+  Plate.cpp
+  Mask.cpp
+Mask.cpp(72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Mask.cpp(73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  ParallelPlate.vcxproj -> C:\Users\Kyle\Documents\Visual Studio 2015\Projects\ParallelPlate\Debug\ParallelPlate.exe
+  ParallelPlate.vcxproj -> C:\Users\Kyle\Documents\Visual Studio 2015\Projects\ParallelPlate\Debug\ParallelPlate.pdb (Full PDB)

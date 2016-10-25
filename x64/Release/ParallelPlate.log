@@ -1,0 +1,27 @@
+﻿  Mask.cpp
+Mask.cpp(72): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+Mask.cpp(73): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+  ParallelPlate.cpp
+c:\users\kyle\documents\visual studio 2015\projects\parallelplate\parallelplate\eigen\src/QR/ColPivHouseholderQR_MKL.h(86): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+c:\users\kyle\documents\visual studio 2015\projects\parallelplate\parallelplate\eigen\src/QR/ColPivHouseholderQR_MKL.h(86): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\kyle\documents\visual studio 2015\projects\parallelplate\parallelplate\eigen\src/QR/ColPivHouseholderQR_MKL.h(87): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+c:\users\kyle\documents\visual studio 2015\projects\parallelplate\parallelplate\eigen\src/QR/ColPivHouseholderQR_MKL.h(87): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\kyle\documents\visual studio 2015\projects\parallelplate\parallelplate\eigen\src/QR/ColPivHouseholderQR_MKL.h(88): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+c:\users\kyle\documents\visual studio 2015\projects\parallelplate\parallelplate\eigen\src/QR/ColPivHouseholderQR_MKL.h(88): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\kyle\documents\visual studio 2015\projects\parallelplate\parallelplate\eigen\src/QR/ColPivHouseholderQR_MKL.h(89): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+c:\users\kyle\documents\visual studio 2015\projects\parallelplate\parallelplate\eigen\src/QR/ColPivHouseholderQR_MKL.h(89): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\kyle\documents\visual studio 2015\projects\parallelplate\parallelplate\eigen\src/QR/ColPivHouseholderQR_MKL.h(91): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+c:\users\kyle\documents\visual studio 2015\projects\parallelplate\parallelplate\eigen\src/QR/ColPivHouseholderQR_MKL.h(91): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\kyle\documents\visual studio 2015\projects\parallelplate\parallelplate\eigen\src/QR/ColPivHouseholderQR_MKL.h(92): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+c:\users\kyle\documents\visual studio 2015\projects\parallelplate\parallelplate\eigen\src/QR/ColPivHouseholderQR_MKL.h(92): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\kyle\documents\visual studio 2015\projects\parallelplate\parallelplate\eigen\src/QR/ColPivHouseholderQR_MKL.h(93): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+c:\users\kyle\documents\visual studio 2015\projects\parallelplate\parallelplate\eigen\src/QR/ColPivHouseholderQR_MKL.h(93): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\kyle\documents\visual studio 2015\projects\parallelplate\parallelplate\eigen\src/QR/ColPivHouseholderQR_MKL.h(94): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+c:\users\kyle\documents\visual studio 2015\projects\parallelplate\parallelplate\eigen\src/QR/ColPivHouseholderQR_MKL.h(94): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Plate.cpp
+  stdafx.cpp
+  Generating code
+  All 1804 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ParallelPlate.vcxproj -> C:\Users\Kyle\Documents\Visual Studio 2015\Projects\ParallelPlate\x64\Release\ParallelPlate.exe
+  ParallelPlate.vcxproj -> C:\Users\Kyle\Documents\Visual Studio 2015\Projects\ParallelPlate\x64\Release\ParallelPlate.pdb (Full PDB)

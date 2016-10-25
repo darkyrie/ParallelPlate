@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Plate.cpp
+  ParallelPlate.cpp
+  Mask.cpp
+c:\users\kyle\documents\visual studio 2015\projects\parallelplate\parallelplate\mask.cpp(72): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+c:\users\kyle\documents\visual studio 2015\projects\parallelplate\parallelplate\mask.cpp(73): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+  Generating Code...
+  ParallelPlate.vcxproj -> C:\Users\Kyle\Documents\Visual Studio 2015\Projects\ParallelPlate\x64\Debug\ParallelPlate.exe
+  ParallelPlate.vcxproj -> C:\Users\Kyle\Documents\Visual Studio 2015\Projects\ParallelPlate\x64\Debug\ParallelPlate.pdb (Full PDB)
